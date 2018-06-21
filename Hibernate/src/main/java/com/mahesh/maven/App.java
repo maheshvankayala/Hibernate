@@ -22,6 +22,7 @@ public class App {
 		System.out.println("Added to test Git");
 		System.out.println("Added to testing");
 		System.out.println("Added to testing branch");
+		System.out.println("Added to testing Stash");
 
 	}
 
