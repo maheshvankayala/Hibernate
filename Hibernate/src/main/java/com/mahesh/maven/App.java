@@ -21,6 +21,7 @@ public class App {
 		session.close();
 		System.out.println("Added to test Git");
 		System.out.println("Added to testing");
+		System.out.println("Added to testing branch");
 
 	}
 
