@@ -20,6 +20,8 @@ public class App {
 		tx.commit();
 		session.close();
 		System.out.println("Added to test Git");
+		System.out.println("Added to testing");
+
 	}
 
 }
